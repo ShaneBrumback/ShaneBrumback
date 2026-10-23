@@ -1,5 +1,6 @@
 <!-- Shane Brumback | Three.js 3D Game Developer | WebGL Browser Games | Indie Forge Studio -->
-<h1 align="center">Shane Brumback: Three.js 3D Game & AI Developer</h1>
+<h1 align="center">Shane Brumback - Indie Forge Studio</h1>
+<p align="center"><b>Three.js 3D Game & AI Developer</b></p>
 
 <p align="center">
   <a href="https://www.supersoldierbattle.com">
